@@ -1,0 +1,6 @@
+﻿{
+	"id": "name",
+	"name": "Поле ввода имени",
+	"type": "textEdit",
+	"description": "Поле ввода имени"
+}

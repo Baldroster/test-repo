@@ -1,0 +1,10 @@
+﻿{
+	"id": "header_forms_block",
+	"name": "Блок с Формами",
+	"description": "Блок с Формами",
+	"blocks": [
+		{
+			"id": "app_header"
+		}
+	]
+}

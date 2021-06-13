@@ -1,0 +1,9 @@
+{
+  "type": "radiobutton",
+  "properties": [
+    {
+      "name": "selected",
+      "imageName": "selected"
+    }
+  ]
+}

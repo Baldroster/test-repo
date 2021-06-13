@@ -1,0 +1,9 @@
+{
+  "type": "button",
+  "properties": [
+    {
+      "name": "focused",
+      "imageName": "focused"
+    }
+  ]
+}

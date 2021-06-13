@@ -1,0 +1,13 @@
+{
+  "type": "checkbox",
+  "properties": [
+    {
+      "name": "selected",
+      "imageName": "selected"
+    },
+    {
+      "name": "disabled",
+      "imageName": "disabled"
+    }
+  ]
+}

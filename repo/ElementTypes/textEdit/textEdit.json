@@ -1,0 +1,9 @@
+{
+  "type": "textEdit",
+  "properties": [
+    {
+      "name": "focused",
+      "imageName": "textEditFocused"
+    }
+  ]
+}

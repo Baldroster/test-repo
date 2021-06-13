@@ -1,0 +1,12 @@
+﻿{
+  "id": "button_quit_not_active",
+  "type": "checkbox",
+  "name": "Кнопка Выйти не активна",
+  "description": "Кнопка Выйти не активна",
+  "properties": [
+    {
+      "name": "disabled",
+      "imageName": "disabled"
+    }
+  ]
+}

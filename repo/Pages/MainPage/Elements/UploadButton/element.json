@@ -1,0 +1,6 @@
+﻿{
+	"id": "upload_button",
+	"name": "Кнопка Загрузить",
+	"type": "button",
+	"description": "Кнопка Загрузить"
+}

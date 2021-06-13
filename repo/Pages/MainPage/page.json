@@ -1,0 +1,21 @@
+﻿{
+	"name": "MainPage",
+	"id": "MainPage",
+	"description": "Главная страница приложения",
+	"blocks": [
+		{
+			"id": "app_header"
+		},
+		{
+			"id": "header_forms_block"
+		}
+	],
+	"elements":[
+		{
+			"id": "common_input"
+		},
+		{
+			"id": "id_2"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "id": "add_button",
+  "type": "button",
+  "name": "Кнопка Добавить",
+  "description": "Кнопка Добавить",
+  "properties": [
+    {
+      "name": "focused",
+      "imageName": "focusedAddButton"
+    }
+  ]
+}

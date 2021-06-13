@@ -1,0 +1,22 @@
+{
+  "elementTypes": [
+    {
+      "type": "button"
+    },
+    {
+      "type": "checkbox"
+    },
+    {
+      "type": "combobox"
+    },
+    {
+      "type": "datePicker"
+    },
+    {
+      "type": "radiobutton"
+    },
+    {
+      "type": "textEdit"
+    }
+  ]
+}
